@@ -9,7 +9,12 @@ To install the app into the system and run it, follow the below steps:
 3. run `npm install` command
 4. run `npm run start` command to run the application.
 
-Screenshots:
+## Screenshots:
+
+![image](https://github.com/TejasNabage/Sphinx-Task/assets/143005848/71cd7f24-cef8-4c6b-aa1a-66bf5be4a79a)
+
+![image](https://github.com/TejasNabage/Sphinx-Task/assets/143005848/21bd5943-a2e8-48e4-ac40-6383baf1f5fc)
+
 
 
 
