@@ -141,6 +141,10 @@ const Chart = () => {
         {/* data container  */}
         <div className="data-container">
           <div className="data-tile">
+          <div className="tile-inner">
+                  <h4>Temperature</h4>
+                  <h4>Time</h4>
+                </div>
             {data.map((point) => {
               return (
                 <div className="tile-inner">
